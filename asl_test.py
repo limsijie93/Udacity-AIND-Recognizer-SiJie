@@ -7,10 +7,6 @@ from my_model_selectors import (
 )
 from my_recognizer import recognize
 
-""" DEPRECATED MODULE
-This module has been split into two new modules: asl_test_model_selectors.py and asl_test_recognizer.py
-This module is included in the repo for the sake of legacy code that still uses it.
-"""
 FEATURES = ['right-y', 'right-x']
 
 
